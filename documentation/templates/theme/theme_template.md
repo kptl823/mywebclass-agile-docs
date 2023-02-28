@@ -1,6 +1,6 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
+As a user of the company's services, I want to have control over my personal data and understand how it is being used, stored, and protected so that I can trust the company with my personal information. By developing a GDPR-compliant privacy policy and implementing necessary changes, we can ensure that we are transparent about how we collect, use, and protect personal data.  By following Agile methodologies and principles such as Lean and continuous improvement, we can quickly and effectively deliver a privacy policy that meets GDPR requirements.
 
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
+
 
 
 # List initiatives related to this theme
