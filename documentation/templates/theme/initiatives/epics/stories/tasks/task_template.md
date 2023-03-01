@@ -1,4 +1,4 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: [Short, descriptive title for the tasks]
 
 User Story: [Reference the user story that this task supports]
 
