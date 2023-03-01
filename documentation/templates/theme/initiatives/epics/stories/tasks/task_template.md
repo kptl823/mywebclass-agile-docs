@@ -1,15 +1,17 @@
-Task Title: [Short, descriptive title for the tasks]
+Tasks are a key component of agile project management, breaking down user stories into smaller, actionable steps that can be assigned and tracked. 
 
-User Story: [Reference the user story that this task supports]
+Task Title: Set up Google Analytics for website
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+User Story: As a website owner, I want to track website traffic so that I can improve my website's performance.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Description: Install Google Analytics on the website, create a new Google Analytics account, and configure tracking code on all pages of the website. Acceptance criteria include verifying that the tracking code is correctly installed and tracking website traffic data is visible in the Google Analytics account.
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Effort Estimate: 2 hours
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Assigned To: Racheal
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Priority: Medium
 
-Notes: [Include]
+Status: In progress
+
+Notes: Racheal needs access to the website hosting account to add the tracking code
